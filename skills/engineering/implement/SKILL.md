@@ -10,4 +10,6 @@ Use /tdd where possible, at pre-agreed seams.
 
 Run typechecking regularly, single test files regularly, and the ./scripts/check.sh once at the end.
 
+Once done, use /code-review to review the work.
+
 Commit your work to the current branch.
